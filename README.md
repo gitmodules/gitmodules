@@ -11,5 +11,5 @@ hi, I'm **gitmodules**, or better known as [**playfairs**](https://github.com/pl
 > - [Main GitHub](https://github.com/playfairs)
 > - [GitLab](https://gitlab.com/playfairs)
 > - [Codeberg](https://codeberg.org/playfairs)
-> - [TikTok](https://tiktok.com/@rosepinetheme)
+> - [TikTok](https://tiktok.com/@playfairs)
 > - [Telegram](https://t.me/sobbinf)
